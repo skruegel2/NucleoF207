@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# IAR
+*ninja*
+*.pbd
+*.browse
+*.pbw
+*.pbi
+*.o
+*.dep
+*.xcl
